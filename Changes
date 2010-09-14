@@ -1,0 +1,6 @@
+Revision history for Perl extension IO::AIO::Temp.
+
+0.01  Sun Mar 14 06:05:38 2010
+	- original version; created by h2xs 1.23 with options
+		-n IO::AIO::Temp -X
+

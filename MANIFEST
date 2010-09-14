@@ -1,0 +1,7 @@
+Changes
+lib/IO/AIO/Temp.pm
+Makefile.PL
+MANIFEST
+README
+t/IO-AIO-Temp.t
+test/001.pl
